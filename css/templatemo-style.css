@@ -228,10 +228,19 @@ h1,h2,h3,h4,h5
 	
 #work .media .fa
     {
-        border: 2px solid #ffffff;
         border-radius: 50%;
         color: #D43F52;
         font-size: 24px;
+        margin-right: 24px;
+        width: 60px;
+        height: 60px;
+        line-height: 55px;
+        text-align: center;
+        vertical-align: middle;
+        transition: all 0.4s ease-in;
+    }
+#work .ima
+    {
         margin-right: 24px;
         width: 60px;
         height: 60px;
